@@ -78,7 +78,7 @@ border-radius: 5px;
   margin: 0;
   width:100%;
   height: 700px;
-  background: rgba(0, 0, 0, 0.4)url("images/back.jpg");
+  background: rgba(0, 0, 0, 0.4)url("Images/back.jpg");
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -305,7 +305,7 @@ h1{
 .reserve-banner{
   display: grid;
   grid-template-columns: 1fr 1fr;
-  background: rgba(0, 0, 0, 0.7)url("images/back.jpg");
+  background: rgba(0, 0, 0, 0.7)url("Images/back.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
